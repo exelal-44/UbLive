@@ -1,13 +1,3 @@
-#EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:22
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:12
-#EXTINF:9.600000,
-https://z88.ubtvfans.com/live/rx3/2737/336d9eb623e5887d34d9e9ef5ae4414c/index.m3u8
-#EXTINF:9.600000,
-https://z88.ubtvfans.com/live/rx3/2737/336d9eb623e5887d34d9e9ef5ae4414c/index.m3u8
-#EXTINF:9.600000,
-https://z88.ubtvfans.com/live/rx3/2737/336d9eb623e5887d34d9e9ef5ae4414c/index.m3u8
-#EXTINF:9.600000,
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 https://z88.ubtvfans.com/live/rx3/2737/336d9eb623e5887d34d9e9ef5ae4414c/index.m3u8
